@@ -1,6 +1,6 @@
 # Collection of useful stuff
 ## cheat-sheet
-+ [🎁-Emoji-cheat-sheet](https://github.com/puppetmaster-/useful-stuff/wiki/🎁-Emoji-cheat-sheet)
++ [☕️-Github-Emoji-cheat-sheet](https://github.com/puppetmaster-/useful-stuff/wiki/☕️-Github-Emoji-cheat-sheet)
 
 ## external
 + [deepl.com/translator](https://www.deepl.com/translator)
